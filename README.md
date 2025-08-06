@@ -1,4 +1,4 @@
-# Evasi-ndeclientes
+# Evasión de clientes
 Telecom X
 
 Para este segundo proyecto del bootcamp de Data Science, se desarrollo un análisis de datos bastante completo. Este proyecto se enfoca en comprender mejor a los clientes mediante el análisis de datos y técnicas avanzadas de clustering. A través de la implementación de diversas técnicas de machine learning y reducción de dimensionalidad, el objetivo es identificar patrones y segmentar a los clientes en diferentes grupos, permitiendo a las empresas personalizar sus estrategias de marketing y mejorar la experiencia del cliente.
