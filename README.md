@@ -10,5 +10,3 @@ El desarrollo y la ejecución de todo el proyecto se realizaron en Google Colab,
 Durante este proyecto, se utilizaron varias metodologías y herramientas de Python, incluyendo K-Means, PCA (Análisis de Componentes Principales) y métricas de evaluación como Silhouette, Davies-Bouldin y Calinski-Harabasz. Estas técnicas nos permitieron obtener insights valiosos sobre los datos de los clientes y agruparlos en clústeres bien definidos.
 
 La importancia de este proyecto radica en su capacidad para transformar datos en información accionable. Al identificar y comprender los diferentes segmentos de clientes, las empresas pueden desarrollar estrategias de marketing más efectivas, mejorar la personalización de sus servicios y, en última instancia, aumentar la satisfacción y lealtad de sus clientes.
-
-Este proyecto es una contribución con todo el amor del mundo para aquellos que buscan formarse en el fascinante ámbito de la Ciencia de Datos. Espero que mi trabajo pueda servir como una guía y recurso valioso para cualquier persona interesada en mejorar sus habilidades y conocimientos en esta área. #aluraChallengeEsenciaDelCliente
